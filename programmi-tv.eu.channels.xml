@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.23 -- Jan van Straaten" site="programmi-tv.eu">
+  <channels>
+    <channel update="i" site="programmi-tv.eu" site_id="raiuno" xmltv_id="rai_1">Rai 1</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="raidue" xmltv_id="rai_2">Rai 2</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="raitre" xmltv_id="rai_Tre">Rai 3</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="rete4" xmltv_id="rete_4">Rete 4</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="canale5" xmltv_id="canale_5">Canale 5</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="italia1" xmltv_id="ialia_1">Italia 1</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="la7" xmltv_id="La7">la7</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="tv8" xmltv_id="TV8">tv8</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="deejaytv" xmltv_id="nove">Nove</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="rai4" xmltv_id="rai_4">Rai 4</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="iris" xmltv_id="iris">Iris</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="rai5" xmltv_id="rai_5">Rai 5</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="raimovie" xmltv_id="rai_movie">Rai Movie</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="raipremium" xmltv_id="rai_premium">Rai Premium</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="cielo" xmltv_id="cielo">Cielo</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="paramount-channel" xmltv_id="paramount_channel">Paramount Channel</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="tv2000" xmltv_id="tv2000">TV2000</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="la7d" xmltv_id="la7d">La7d</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="la5" xmltv_id="la5">La5</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="realtime" xmltv_id="real_time">Real Time</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="qvc" xmltv_id="qvc">QVC</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="mediasetextra" xmltv_id="mediaset_extra">Mediaset Extra</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="italia2" xmltv_id="italia_2">Italia 2</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="rtl1025tv" xmltv_id="rtl_102.5_tv">RTL 102.5 TV</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="hse24" xmltv_id="hse24">HSE24</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="giallo" xmltv_id="giallo">Giallo</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="topcrime" xmltv_id="top_crime">Top Crime</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="boing" xmltv_id="boing">Boing</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="k2" xmltv_id="k2">K2</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="raigulp" xmltv_id="rai_gulp">Rai Gulp</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="raiyoyo" xmltv_id="rai_yoyo">Rai Yoyo</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="frisbee" xmltv_id="frisbee">Frisbee</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="cartoonito" xmltv_id="cartoonito">Cartoonito</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="super" xmltv_id="super">Super!</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="rainews24" xmltv_id="rai_news_24">Rai News 24</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="fineliving" xmltv_id="fine_living">Fine Living</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="skytg24" xmltv_id="sky_tg_24">Sky TG 24</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="tgcom24" xmltv_id="tgcom24">Tgcom24</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="dmax" xmltv_id="dmax">Dmax</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="raistoria" xmltv_id="rai_storia">Rai Storia</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="focus" xmltv_id="Focus">focus</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="raisport" xmltv_id="rai_sport_1">Rai Sport 1</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="raisport2" xmltv_id="rai_sport_2">Rai Sport 2</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="super-tennis" xmltv_id="super_tennis">Super Tennis</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="mtvmusic" xmltv_id="mtv_music">MTV Music</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="la3" xmltv_id="la3">La3</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="raiscuola" xmltv_id="rai_scuola">Rai Scuola</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="sportitalia" xmltv_id="sportitalia">Sportitalia</channel>
+  </channels>
+</site>
