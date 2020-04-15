@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.54.6/0.01 -- Jan van Straaten" site="comingsoon.it">
+  <channels>
+	<channel update="i" site="comingsoon.it" site_id="rai-1" xmltv_id="rai_1">Rai 1</channel>
+	<channel update="i" site="comingsoon.it" site_id="rai-2" xmltv_id="rai_2">Rai 2</channel>
+	<channel update="i" site="comingsoon.it" site_id="rai-3" xmltv_id="rai_3">Rai 3</channel>
+	<channel update="i" site="comingsoon.it" site_id="rete-4" xmltv_id="rete_4">Rete 4</channel>
+	<channel update="i" site="comingsoon.it" site_id="canale-5" xmltv_id="canale_5">Canale 5</channel>
+	<channel update="i" site="comingsoon.it" site_id="italia-1" xmltv_id="italia_1">Italia 1</channel>
+	<channel update="i" site="comingsoon.it" site_id="la7" xmltv_id="la7">La7</channel>
+	<channel update="i" site="comingsoon.it" site_id="tv8" xmltv_id="tv8">TV8</channel>
+	<channel update="i" site="comingsoon.it" site_id="nove" xmltv_id="nove">Nove</channel>
+	<channel update="i" site="comingsoon.it" site_id="rai-4" xmltv_id="rai_4">Rai 4</channel>
+	<channel update="i" site="comingsoon.it" site_id="rai-5" xmltv_id="rai_5">Rai 5</channel>
+	<channel update="i" site="comingsoon.it" site_id="rai-movie" xmltv_id="rai_movie">Rai Movie</channel>
+	<channel update="i" site="comingsoon.it" site_id="iris" xmltv_id="iris">Iris</channel>
+	<channel update="i" site="comingsoon.it" site_id="la5" xmltv_id="la5">La5</channel>
+	<channel update="i" site="comingsoon.it" site_id="italia-2" xmltv_id="italia_2">Italia 2</channel>
+	<channel update="i" site="comingsoon.it" site_id="la7d" xmltv_id="la7d">La7d</channel>
+	<channel update="i" site="comingsoon.it" site_id="paramount-channel" xmltv_id="paramount_channel">Paramount Channel</channel>
+	<channel update="i" site="comingsoon.it" site_id="cielo" xmltv_id="cielo">Cielo</channel>
+	<channel update="i" site="comingsoon.it" site_id="rai-premium" xmltv_id="rai_premium">Rai Premium</channel>
+	<channel update="i" site="comingsoon.it" site_id="giallo" xmltv_id="giallo">Giallo</channel>
+	<channel update="i" site="comingsoon.it" site_id="top-crime" xmltv_id="top_crime">Top Crime</channel>
+	<channel update="i" site="comingsoon.it" site_id="real-time" xmltv_id="real_time">Real Time</channel>
+	<channel update="i" site="comingsoon.it" site_id="dmax" xmltv_id="dmax">Dmax</channel>
+	<channel update="i" site="comingsoon.it" site_id="focus" xmltv_id="focus">Focus</channel>
+	<channel update="i" site="comingsoon.it" site_id="rai-storia" xmltv_id="rai_storia">Rai Storia</channel>
+	<channel update="i" site="comingsoon.it" site_id="mediaset-extra" xmltv_id="mediaset_extra">Mediaset Extra</channel>
+	<channel update="i" site="comingsoon.it" site_id="tv-2000" xmltv_id="tv_2000">TV 2000</channel>
+	<channel update="i" site="comingsoon.it" site_id="boing" xmltv_id="boing">Boing</channel>
+	<channel update="i" site="comingsoon.it" site_id="k2" xmltv_id="k2">K2</channel>
+	<channel update="i" site="comingsoon.it" site_id="rai-gulp" xmltv_id="rai_gulp">Rai Gulp</channel>
+	<channel update="i" site="comingsoon.it" site_id="rai-yoyo" xmltv_id="rai_yoyo">Rai YoYo</channel>
+	<channel update="i" site="comingsoon.it" site_id="cartoonito" xmltv_id="cartoonito">Cartoonito</channel>
+	<channel update="i" site="comingsoon.it" site_id="premium-cinema" xmltv_id="premium_cinema">Premium Cinema</channel>
+	<channel update="i" site="comingsoon.it" site_id="premium-emotion" xmltv_id="premium_emotion">Premium Emotion</channel>
+	<channel update="i" site="comingsoon.it" site_id="premium-energy" xmltv_id="premium_energy">Premium Energy</channel>
+	<channel update="i" site="comingsoon.it" site_id="premium-action" xmltv_id="premium_action">Premium Action</channel>
+	<channel update="i" site="comingsoon.it" site_id="premium-crime" xmltv_id="premium_crime">Premium Crime</channel>
+	<channel update="i" site="comingsoon.it" site_id="premium-stories" xmltv_id="premium_stories">Premium Stories</channel>
+	<channel update="i" site="comingsoon.it" site_id="premium-cinema-comedy" xmltv_id="premium_cinema_comedy">Premium Cinema Comedy</channel>
+	<channel update="i" site="comingsoon.it" site_id="eurosport" xmltv_id="eurosport">Eurosport</channel>
+	<channel update="i" site="comingsoon.it" site_id="eurosport-2" xmltv_id="eurosport_2">Eurosport-2</channel>
+	<channel update="i" site="comingsoon.it" site_id="sky-cinema-uno" xmltv_id="sky_cinema_uno">Sky Cinema Uno</channel>
+	<channel update="i" site="comingsoon.it" site_id="sky-cinema-action" xmltv_id="sky_cinema_action">Sky Cinema Action</channel>
+	<channel update="i" site="comingsoon.it" site_id="sky-cinema-collection" xmltv_id="sky_cinema_collection">Sky Cinema Collection</channel>
+	<channel update="i" site="comingsoon.it" site_id="sky-cinema-family" xmltv_id="sky_cinema_family">Sky Cinema Family</channel>
+	<channel update="i" site="comingsoon.it" site_id="sky-cinema-drama" xmltv_id="sky_cinema_drama">Sky Cinema Drama</channel>
+	<channel update="i" site="comingsoon.it" site_id="sky-cinema-comedy" xmltv_id="sky_cinema_comedy">Sky Cinema Comedy</channel>
+	<channel update="i" site="comingsoon.it" site_id="sky-cinema-romance" xmltv_id="sky_cinema_romance">Sky Cinema Romance</channel>
+	<channel update="i" site="comingsoon.it" site_id="sky-cinema-due" xmltv_id="sky_cinema_due">Sky Cinema Due</channel>
+	<channel update="i" site="comingsoon.it" site_id="sky-cinema-suspense" xmltv_id="sky_cinema_suspense">Sky Cinema Suspense</channel>
+	<channel update="i" site="comingsoon.it" site_id="sky-uno" xmltv_id="sky_uno">Sky Uno</channel>
+	<channel update="i" site="comingsoon.it" site_id="sky-atlantic" xmltv_id="sky_atlantic">Sky Atlantic</channel>
+	<channel update="i" site="comingsoon.it" site_id="sky-sport-uno" xmltv_id="sky_sport_uno">Sky Sport Uno</channel>
+	<channel update="i" site="comingsoon.it" site_id="sky-sport-arena" xmltv_id="sky_sport_arena">Sky Sport Arena</channel>
+	<channel update="i" site="comingsoon.it" site_id="sky-sport-football" xmltv_id="sky_sport_football">Sky Sport Football</channel>
+	<channel update="i" site="comingsoon.it" site_id="sky-sport-serie-a" xmltv_id="sky_sport_serie_a">Sky Sport Serie A</channel>
+	<channel update="i" site="comingsoon.it" site_id="fox" xmltv_id="fox">Fox</channel>
+	<channel update="i" site="comingsoon.it" site_id="fox-life" xmltv_id="fox_life">Fox Life</channel>
+	<channel update="i" site="comingsoon.it" site_id="fox-crime" xmltv_id="fox_crime">Fox Crime</channel>
+	<channel update="i" site="comingsoon.it" site_id="laeffe" xmltv_id="laeffe">Laeffe</channel>
+	<channel update="i" site="comingsoon.it" site_id="comedy-central" xmltv_id="comedy_central">Comedy Central</channel>
+	<channel update="i" site="comingsoon.it" site_id="ci-crime-investigation" xmltv_id="ci_crime_investigation">Ci Crime Investigation</channel>
+	<channel update="i" site="comingsoon.it" site_id="classica" xmltv_id="classica">Classica</channel>
+	<channel update="i" site="comingsoon.it" site_id="sky-arte" xmltv_id="sky_arte">Sky Arte</channel>
+	<channel update="i" site="comingsoon.it" site_id="discovery-channel" xmltv_id="discovery_channel">Discovery Channel</channel>
+	<channel update="i" site="comingsoon.it" site_id="national-geographic" xmltv_id="national_geographic">National Geographic</channel>
+	<channel update="i" site="comingsoon.it" site_id="discovery-science" xmltv_id="discovery_science">Discovery Science</channel>
+	<channel update="i" site="comingsoon.it" site_id="history" xmltv_id="history">History</channel>
+	<channel update="i" site="comingsoon.it" site_id="nat-geo-wild" xmltv_id="nat_geo_wild">Nat Geo Wild</channel>
+	<channel update="i" site="comingsoon.it" site_id="gambero-rosso" xmltv_id="gambero_rosso">Gambero Rosso</channel>
+	<channel update="i" site="comingsoon.it" site_id="deakids" xmltv_id="deakids">Deakids</channel>
+	<channel update="i" site="comingsoon.it" site_id="nickelodeon" xmltv_id="nickelodeon">Nickelodeon</channel>
+	<channel update="i" site="comingsoon.it" site_id="cartoon-network" xmltv_id="cartoon_network">Cartoon Network</channel>
+	<channel update="i" site="comingsoon.it" site_id="boomerang" xmltv_id="boomerang">Boomerang</channel>
+	<channel update="i" site="comingsoon.it" site_id="disney-junior" xmltv_id="disney_junior">Disney Junior</channel>
+	<channel update="i" site="comingsoon.it" site_id="disney-channel" xmltv_id="disney_channel">Disney Channel</channel>
+	<channel update="i" site="comingsoon.it" site_id="deajunior" xmltv_id="deajunior">Deajunior</channel>
+	<channel update="i" site="comingsoon.it" site_id="man-ga" xmltv_id="man_ga">Man Ga</channel>
+	<channel update="i" site="comingsoon.it" site_id="nick-jr" xmltv_id="nick_jr">Nick Jr</channel>
+	<channel update="i" site="comingsoon.it" site_id="sky-cinema-iorestoacasa-1" xmltv_id="sky_cinema_iorestoacasa_1">Sky Cinema Iorestoacasa-1</channel>
+	<channel update="i" site="comingsoon.it" site_id="sky-cinema-iorestoacasa-2" xmltv_id="sky_cinema_iorestoacasa_2">Sky Cinema Iorestoacasa-2</channel>
+  </channels>
+</site>
