@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.53.13/0.05 -- Jan van Straaten" site="movietele_E.it">
+  <channels>
+	<channel update="i" site="movietele_E.it" site_id="raiuno" xmltv_id="rai_1">Rai 1</channel>
+	<channel update="i" site="movietele_E.it" site_id="raidue" xmltv_id="rai_2">Rai 2</channel>
+	<channel update="i" site="movietele_E.it" site_id="raitre" xmltv_id="rai_3">Rai 3</channel>
+	<channel update="i" site="movietele_E.it" site_id="rete-4" xmltv_id="rete_4">Rete 4</channel>
+	<channel update="i" site="movietele_E.it" site_id="canale-5" xmltv_id="canale_5">Canale 5</channel>
+	<channel update="i" site="movietele_E.it" site_id="italia-1" xmltv_id="italia_1">Italia 1</channel>
+	<channel update="i" site="movietele_E.it" site_id="la7" xmltv_id="la_7">La7</channel>
+	<channel update="i" site="movietele_E.it" site_id="tv8" xmltv_id="tv8">TV8</channel>
+	<channel update="i" site="movietele_E.it" site_id="deejaytv" xmltv_id="nove">Nove</channel>
+	<channel update="i" site="movietele_E.it" site_id="raiquattro" xmltv_id="rai_4">Rai 4</channel>
+	<channel update="i" site="movietele_E.it" site_id="iris" xmltv_id="iris">Iris</channel>
+	<channel update="i" site="movietele_E.it" site_id="20-mediaset" xmltv_id="20-mediaset">20-mediaset</channel>
+	<channel update="i" site="movietele_E.it" site_id="boing" xmltv_id="boing">Boing</channel>
+	<channel update="i" site="movietele_E.it" site_id="raistoria" xmltv_id="rai_storia">Rai Storia</channel>
+	<channel update="i" site="movietele_E.it" site_id="raigulp" xmltv_id="rai_gulp">RaiGulp</channel>
+	<channel update="i" site="movietele_E.it" site_id="raisport1" xmltv_id="rai_sport1">Raisport 1</channel>
+	<channel update="i" site="movietele_E.it" site_id="raicinque" xmltv_id="rai_5">Rai 5</channel>
+	<channel update="i" site="movietele_E.it" site_id="la-5" xmltv_id="la_5">La5</channel>
+	<channel update="i" site="movietele_E.it" site_id="raimovie" xmltv_id="rai_movie">Rai Movie</channel>
+	<channel update="i" site="movietele_E.it" site_id="la7d" xmltv_id="La7D">La7D</channel>
+	<channel update="i" site="movietele_E.it" site_id="raipremium" xmltv_id="rai_premium">Rai premium</channel>
+	<channel update="i" site="movietele_E.it" site_id="mediaset-italia-2" xmltv_id="italia_2">Italia 2</channel>
+	<channel update="i" site="movietele_E.it" site_id="mediaset-extra" xmltv_id="mediaset_extra">Mediaset Extra</channel>
+	<channel update="i" site="movietele_E.it" site_id="dmax" xmltv_id="dmax">Dmax</channel>
+	<channel update="i" site="movietele_E.it" site_id="rainews24" xmltv_id="rai_news">Rai News</channel>
+	<channel update="i" site="movietele_E.it" site_id="raiyoyo" xmltv_id="rai_yoyo">Rai YoYo</channel>
+	<channel update="i" site="movietele_E.it" site_id="tv2000" xmltv_id="tv2000">Tv 2000</channel>
+	<channel update="i" site="movietele_E.it" site_id="top-crime" xmltv_id="top_crime">Top Crime</channel>
+	<channel update="i" site="movietele_E.it" site_id="focus" xmltv_id="focus_tv">Focus</channel>
+	<channel update="i" site="movietele_E.it" site_id="giallo" xmltv_id="giallo">Giallo</channel>
+	<channel update="i" site="movietele_E.it" site_id="raiscuola" xmltv_id="rai_scuola">Rai Scuola</channel>
+	<channel update="i" site="movietele_E.it" site_id="laeffe" xmltv_id="la_effe">La effe</channel>
+	<channel update="i" site="movietele_E.it" site_id="motor-trend" xmltv_id="motor_trend">Motor Trend</channel>
+  </channels>
+</site>
