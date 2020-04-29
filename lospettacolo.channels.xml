@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.54.6/0.01 -- Jan van Straaten" site="lospettacolo.it">
+  <channels>
+	<channel update="i" site="lospettacolo.it" site_id="rai-1" xmltv_id="Rai_1">Rai 1</channel>
+	<channel update="i" site="lospettacolo.it" site_id="rai-2" xmltv_id="Rai_2">Rai 2</channel>
+	<channel update="i" site="lospettacolo.it" site_id="rai-3" xmltv_id="Rai_3">Rai 3</channel>
+	<channel update="i" site="lospettacolo.it" site_id="canale5" xmltv_id="Canale_5">Canale 5</channel>
+	<channel update="i" site="lospettacolo.it" site_id="italia-1" xmltv_id="Italia_1">Italia 1</channel>
+	<channel update="i" site="lospettacolo.it" site_id="rete4" xmltv_id="Rete_4">Rete 4</channel>
+	<channel update="i" site="lospettacolo.it" site_id="la7" xmltv_id="La7">La7</channel>
+	<channel update="i" site="lospettacolo.it" site_id="tv8" xmltv_id="TV8">tv8</channel>
+	<channel update="i" site="lospettacolo.it" site_id="nove" xmltv_id="nove">Nove</channel>
+	<channel update="i" site="lospettacolo.it" site_id="rai-4" xmltv_id="rai_4">Rai 4</channel>
+	<channel update="i" site="lospettacolo.it" site_id="iris" xmltv_id="iris">Iris</channel>
+	<channel update="i" site="lospettacolo.it" site_id="rai-5" xmltv_id="rai_5">Rai 5</channel>
+	<channel update="i" site="lospettacolo.it" site_id="rai-movie" xmltv_id="rai_movie">Rai Movie</channel>
+	<channel update="i" site="lospettacolo.it" site_id="rai-premium" xmltv_id="rai_premium">Rai Premium</channel>
+	<channel update="i" site="lospettacolo.it" site_id="cielo" xmltv_id="cielo">Cielo</channel>
+	<channel update="i" site="lospettacolo.it" site_id="paramount" xmltv_id="paramount_channel">Paramount Channel</channel>
+  </channels>
+</site>
